@@ -3,6 +3,10 @@ h1 {
     font-family: "Times New Roman", Times, serif;
     font-size: 200%;
 }
+
+h3 {
+    color: gray;
+}
 p  {
     
     font-family: arial, sans-serif;
